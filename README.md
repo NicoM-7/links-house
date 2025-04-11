@@ -18,7 +18,7 @@ A textured mesh renderer built with OpenGL that visualizes a simplified 3D model
 - Transparent object support with blending
 - First-person camera with arrow key movement
 
-## ⚙️ Environment Setup
+## Environment Setup
 
 Follow these steps to configure your environment on Windows using MSYS2:
 
@@ -48,7 +48,7 @@ Follow these steps to configure your environment on Windows using MSYS2:
    C:\msys64\mingw64\bin
    ```
 
-## 🛠 Build and Run
+## Build and Run
 
 1. Open `LinksHouse.cpp` in [Visual Studio Code](https://code.visualstudio.com/)
 2. From the top menu, go to: `Terminal` → `Run Build Task`
