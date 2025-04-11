@@ -50,6 +50,11 @@ Follow these steps to configure your environment on Windows using MSYS2:
 
 ## Build and Run
 
-1. Open `LinksHouse.cpp` in [Visual Studio Code](https://code.visualstudio.com/)
-2. From the top menu, go to: `Terminal` → `Run Build Task`
-3. Locate the built executable (`LinksHouse.exe`) and run it
+1. Clone the repository
+   ```bash
+   git clone https://github.com/NicoM-7/links-house.git
+   cd links-house
+   ```
+2. Open `LinksHouse.cpp` in [Visual Studio Code](https://code.visualstudio.com/)
+3. From the top menu, go to: `Terminal` → `Run Build Task`
+4. Locate the built executable (`LinksHouse.exe`) and run it
